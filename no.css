@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ad6060;
+}
+
+header {
+    background-color: #6a3434;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.menu {
+    padding: 50px;
+    text-align: center;
+}
+
+.menu-item {
+    background: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item h3 {
+    font-size: 1.8em;
+    color: #953232;
+}
+
+.menu-item span {
+    font-size: 1.2em;
+    color: #3498db;
+}
+
+footer {
+    background-color: #302929;
+    color: rgb(223, 207, 207);
+    text-align: center;
+    padding: 20px;
+}
